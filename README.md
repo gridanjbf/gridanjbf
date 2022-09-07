@@ -1,4 +1,4 @@
-- Hi folks I am gridanjbf aka known irl as Dan.
+- Hi folks I am gridanjbf aka as Dan IRL.
 - I am interested in full stack web/mobile developing
   + RoR
   + ReactJS/React Native
